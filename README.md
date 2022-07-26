@@ -1,6 +1,14 @@
 
-## Olá, Eu Sou Hudson Amorim
--Estudante Back End com foco principal em desenvolvimento e aplicações JAVA
+# <div id="header" align="center">< Hello World /> 🌐.
+
+Olá, Eu Sou Hudson Amorim
+Estudante Back End com foco principal em desenvolvimento e aplicações JAVA
+####
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" height="200">
+</div>
 <div align="center">
   <a href="https://github.com/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hudson-engsoftware&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -16,6 +24,10 @@
   <img align="center" alt="Hudson-mdb" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Hudson-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hudson-ub" height="40" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img align="center" alt src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"
+    alt="docker " width="40" height="40" />&nbsp;
+  <img align="center" alt src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"
+    title="visualstudio" **alt="visualstudio" width="80" height="80" />
   
 </div>
 
