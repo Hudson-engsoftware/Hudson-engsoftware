@@ -1,5 +1,10 @@
 
-# <div id="header" align="center">< Hello World /> 🌐.
+<h1 align="center">
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/nEZQWs1o1Zh9C/giphy.gif" width="50">
+< Hello World /> .
+<img src="https://media.giphy.com/media/9KawrQzIwdAYg/giphy.gif" width="40">
+</h1>
 
 Olá, Eu Sou Hudson Amorim
 Estudante Back End com foco principal em desenvolvimento e aplicações JAVA
