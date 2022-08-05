@@ -21,6 +21,11 @@
 </div>
 
 </div>
+  <div align="center">
+           
+### Skills:
+</div>         
+                     
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Hudson-jv" height="40" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
@@ -32,7 +37,7 @@
   <img align="center" alt src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker"
     alt="docker " width="40" height="40" />&nbsp;
   <img align="center" alt src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"
-    title="visualstudio" **alt="visualstudio" width="80" height="80" />
+    title="visualstudio" **alt="visualstudio" width="100" height="100" />
   </div>
 </div>
 
