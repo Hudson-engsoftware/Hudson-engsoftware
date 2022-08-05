@@ -2,12 +2,11 @@
 <h1 align="center">
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/nEZQWs1o1Zh9C/giphy.gif" width="50">
-< Hello World /> .
+< Hello, I'm Hudson /> .
 <img src="https://media.giphy.com/media/9KawrQzIwdAYg/giphy.gif" width="40">
 </h1>
 
-Olá, Eu Sou Hudson Amorim
-Estudante Back End com foco principal em desenvolvimento e aplicações JAVA
+
 ####
 </div>
 
@@ -37,9 +36,11 @@ Estudante Back End com foco principal em desenvolvimento e aplicações JAVA
 
 
 
-##
+
+### Contact me:
 </div>
 <a href="https://www.linkedin.com/in/"hudsonamorim28@gmail.com target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://instagram.com/amorim_hud" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
 </div>
