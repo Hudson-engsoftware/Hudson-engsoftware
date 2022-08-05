@@ -9,17 +9,19 @@
 
 ####
 </div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" height="200">
-</div>
 <div align="center">
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
+</div>
+
+<div align="center">
+
   <a href="https://github.com/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hudson-engsoftware&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-engsoftware&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 </div>
+<div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Hudson-jv" height="40" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
   <img align="center" alt="Hudson-Springboot" height="40" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
@@ -31,7 +33,7 @@
     alt="docker " width="40" height="40" />&nbsp;
   <img align="center" alt src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"
     title="visualstudio" **alt="visualstudio" width="80" height="80" />
-  
+  </div>
 </div>
 
 
